@@ -1,0 +1,22 @@
+{
+    "name": "fazzinipierluigi/manta",
+    "type": "Laravel, CMS, Backend",
+    "minimum-stability": "dev",
+	"require": {},
+	"extra": {
+	    "laravel": {
+	        "providers": [
+	            "fazzinipierluigi\\manta\\MantaServiceProvider"
+	        ],
+	        "aliases": {
+	        }
+	    }
+	},
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Fazzini Pielruigi",
+            "email": "fazzinipierluigi@gmail.com"
+        }
+    ]
+}
