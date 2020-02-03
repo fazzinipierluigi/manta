@@ -31,7 +31,7 @@ class MantaServiceProvider extends ServiceProvider
     	]);
 
 		### MIGRATIONS ###
-		$this->loadMigrationsFrom(__DIR__.'/path/to/migrations');
+		$this->loadMigrationsFrom(__DIR__.'/database/migrations');
 
 		### ROUTES ###
 		$this->loadRoutesFrom(__DIR__.'/routes/web.php');
