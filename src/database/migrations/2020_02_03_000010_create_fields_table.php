@@ -22,6 +22,7 @@
 				$table->boolean('create');
 				$table->boolean('show');
 				$table->boolean('update');
+				$table->text('filters');
 				$table->text('settings');
 				$table->timestamps();
 			});

@@ -1,6 +1,6 @@
 <?php
 	return [
-
+		'backend_segment' => 'admin',
 		'acl' => [
 			'additional' => [
 				'menu.section.products' => 'Visualizza il blocco "Prodotti" nel menù laterale',

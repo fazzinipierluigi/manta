@@ -1,6 +1,6 @@
 <?php
 
-namespace fazzinipierluigi\manta\app\Model;
+namespace fazzinipierluigi\Manta\App\Model;
 
 use Illuminate\Database\Eloquent\Model;
 

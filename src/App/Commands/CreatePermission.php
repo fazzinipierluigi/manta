@@ -1,6 +1,6 @@
 <?php
 
-namespace fazzinipierluigi\manta\Commands;
+namespace fazzinipierluigi\Manta\App\Commands;
 
 use Illuminate\Console\Command;
 
